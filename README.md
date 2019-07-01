@@ -1,6 +1,6 @@
 # Hacking
 
-Collection of tools, some from my own creation, others copy from someone else's code <credit given where credit is due>
+Collection of tools, some from my own creation, others copy from someone else's code (credit given where credit is due)
 used to perform several tasks while learning ethical hacking.
  
 # What are we trying to accomplish?
